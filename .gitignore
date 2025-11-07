@@ -1,0 +1,15 @@
+# Eclipse and Java
+.classpath
+.project
+.settings/
+bin/
+target/
+
+# Test outputs and logs
+test-output/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
